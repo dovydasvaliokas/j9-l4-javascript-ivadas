@@ -1,0 +1,10 @@
+console.log("Liekana 25 dalinant iš 3:");
+console.log(25 % 3);
+console.log("2 pakėlus 4 laipsniu:");
+console.log(2 ** 4);
+console.log("6 pakėlus 3 laipsniu");
+console.log(6 ** 3); 
+console.log("Sudėtis tarp dviejų tekstinių reikšmių: ");
+console.log("30" + "40");
+console.log("Sudėtis tarp dviejų tekstinių reikšmių jas prieš tai konvertavus į skaitines:");
+console.log(+"30" + +"40");
